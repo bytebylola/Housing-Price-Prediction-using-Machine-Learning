@@ -1,5 +1,7 @@
 # Priceless Homes: A machine Learning Approach to Predicting Housing Prices in India
-Refrences
+Refrences:
+
+Blog: https://priceless-homes.blogspot.com/2023/05/priceless-homes-machine-learning.html
 
 dataset: https://www.kaggle.com/code/souravchanda01/house-price-dataset-of-india/notebook
 
